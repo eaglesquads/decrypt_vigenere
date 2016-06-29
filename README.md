@@ -1,2 +1,2 @@
 # decrypt_vigenere
-decrypts Vigenere cypher, based on probabilities or frequencies of english letters, exercise.
+decrypts Vigenere XOR cypher, based on probabilities or frequencies of english letters, exercise.

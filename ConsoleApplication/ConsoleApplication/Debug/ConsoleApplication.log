@@ -1,0 +1,5 @@
+﻿  ConsoleApplication.cpp
+c:\users\svetlanal\documents\visual studio 2015\projects\consoleapplication\consoleapplication\consoleapplication.cpp(27): warning C4477: 'fscanf' : format string '%02X' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'unsigned char *'
+  c:\users\svetlanal\documents\visual studio 2015\projects\consoleapplication\consoleapplication\consoleapplication.cpp(27): note: consider using '%hhX' in the format string
+c:\users\svetlanal\documents\visual studio 2015\projects\consoleapplication\consoleapplication\consoleapplication.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication.vcxproj -> C:\Users\svetlanal\Documents\Visual Studio 2015\Projects\ConsoleApplication\Debug\ConsoleApplication.exe

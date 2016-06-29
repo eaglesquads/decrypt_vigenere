@@ -1,0 +1,27 @@
+﻿Build started 29.06.2016 0:30:00.
+     1>Project "C:\Users\HP\Dropbox\EXAMPLE\Coursera - Cryptography\ConsoleApplication\ConsoleApplication\App.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\App.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _CRT_SECURE_NO_WARNINGS /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication.cpp
+         ConsoleApplication.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HP\Dropbox\EXAMPLE\Coursera - Cryptography\ConsoleApplication\ConsoleApplication\Debug\App.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\App.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\HP\Dropbox\EXAMPLE\Coursera - Cryptography\ConsoleApplication\ConsoleApplication\Debug\App.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HP\Dropbox\EXAMPLE\Coursera - Cryptography\ConsoleApplication\ConsoleApplication\Debug\App.lib" /MACHINE:X86 Debug\App.exe.embed.manifest.res
+         Debug\ConsoleApplication.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\App.exe.embed.manifest" /manifest Debug\App.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         App.vcxproj -> C:\Users\HP\Dropbox\EXAMPLE\Coursera - Cryptography\ConsoleApplication\ConsoleApplication\Debug\App.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\App.unsuccessfulbuild".
+         Touching "Debug\App.lastbuildstate".
+     1>Done Building Project "C:\Users\HP\Dropbox\EXAMPLE\Coursera - Cryptography\ConsoleApplication\ConsoleApplication\App.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76
